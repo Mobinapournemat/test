@@ -6,8 +6,8 @@ public class Main {
         int x=4 ;
         int y = 8;
         int dahlia=17;
+        int z=0 ;
+                int d=0;
 	    System.out.println(x+y);
-	    double c=3.2;
-	    int z=13;
     }
 }
